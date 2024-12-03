@@ -88,15 +88,7 @@ Structured database schema for better data handling and storage.
 
 
 
-3. Reporting System
-
-Monitors critical metrics like sales, inventory, and vendor performance.
-
-Generates detailed reports for informed decision-making.
-
-
-
-4. Farmer-Centric Platform
+3. Farmer-Centric Platform
 
 Allows farmers to list their products easily.
 
